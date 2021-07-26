@@ -41,4 +41,4 @@ The repository comprises 4 main files:
 
 ## License
 This code is being shared under an [MIT 
-license](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+license](https://github.com/arpaiva/biopgm-macrochem/blob/main/LICENSE).
