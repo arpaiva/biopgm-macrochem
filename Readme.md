@@ -19,25 +19,25 @@ validation data and perform the analysis in the article,
 
 ## Requirements
 The code has been tested in Python 3.7 and requires PyStan 2.19 or newer. The 
-Jupyter notebooks have been tested version 3.6.
+Jupyter notebooks have been tested in version 3.6.
 
 ## Overview
 
 The repository comprises 4 main files:
 
-* `srbsim.py` implements the class used to generate the simulated used in the 
-  data. This is called in each of the Jupyter notebooks.
+* `srbsim.py` implements the class used to generate the simulated data used in the 
+  paper. This is called in each of the Jupyter notebooks.
 
 * `chem_model1_constCellWeight.ipynb` implements all analysis pertaining to
-  Schenario 1 described in the paper.
+  Scenario 1 described in the paper.
 
 * `chem_model2_changingCellWeights.ipynb` implements all analysis pertaining to
-  Schenario 2 described in the paper.
+  Scenario 2 described in the paper.
 
 * `chem_model3_changingCellWeights_biomassSensitivity.ipynb` tests, with
   respect to Scenario 2, the sensitivity of the results to the generic
   biomass composition formula used in the paper. This analysis is described
-  in the supplementary materials, Section S1.
+  in the paper supplementary materials, Section S1.
 
 ## License
 This code is being shared under an [MIT 
