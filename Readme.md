@@ -16,7 +16,7 @@ quantities of interest (e.g., biomass yields).
 Specifically, this repository contains the code used to generate the
 validation data and perform the analysis in the article,
 
-* Antonio R. Paiva and Giovanni Pilloni (2022). Inferring Microbial Biomass Yield and Cell Weight using Probabilistic Macrochemical Modeling. _IEEE/ACM Transactions on Computational Biology and Bioinformatics_<br/>[DOI: 10.1109/TCBB.2021.3139290](https://doi.org/10.1109/TCBB.2021.3139290)<br/>[arXiv preprint arXiv:2010.02759](https://arxiv.org/abs/2010.02759)
+* Antonio R. Paiva and Giovanni Pilloni (2022). Inferring Microbial Biomass Yield and Cell Weight using Probabilistic Macrochemical Modeling. _IEEE/ACM Transactions on Computational Biology and Bioinformatics_<br/>[DOI: 10.1109/TCBB.2021.3139290](https://doi.org/10.1109/TCBB.2021.3139290)  |  [arXiv preprint arXiv:2010.02759](https://arxiv.org/abs/2010.02759)
 
 ## Requirements
 
