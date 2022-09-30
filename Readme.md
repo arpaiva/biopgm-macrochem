@@ -6,20 +6,23 @@
 </div>
 <br>
 
-Probabilistic macrochemical modeling is a general methodology that builds on 
-macrochemical characterizations of microbial growth ([Heijen and 
-Van&nbsp;Dijken, 1992](https://pubmed.ncbi.nlm.nih.gov/18601018/)) and
-fully utilizes all of available experimental data at one for accurate and
-robust estimation of parameters of interest (e.g., biomass yields).
+Probabilistic macrochemical modeling is a general methodology that builds
+on macrochemical characterizations of microbial growth ([Heijen and 
+Van&nbsp;Dijken, 1992](https://pubmed.ncbi.nlm.nih.gov/18601018/)).
+With it, we can build probabilistic models that infer from all available
+experimental data globally consistent and accurate estimates of microbial
+quantities of interest (e.g., biomass yields).
 
 Specifically, this repository contains the code used to generate the
 validation data and perform the analysis in the article,
 
-* Antonio R. Paiva and Giovanni Pilloni (2021). Inferring Microbial Biomass Yield and Cell Weight using Probabilistic Macrochemical Modeling. [arXiv preprint arXiv:2010.02759](https://arxiv.org/abs/2010.02759)
+* Antonio R. Paiva and Giovanni Pilloni (2022). Inferring Microbial Biomass Yield and Cell Weight using Probabilistic Macrochemical Modeling. _IEEE/ACM Transactions on Computational Biology and Bioinformatics_<br/>[DOI: 10.1109/TCBB.2021.3139290](https://doi.org/10.1109/TCBB.2021.3139290)<br/>[arXiv preprint arXiv:2010.02759](https://arxiv.org/abs/2010.02759)
 
 ## Requirements
-The code has been tested in Python 3.7 and requires PyStan 2.19 or newer. The 
-Jupyter notebooks have been tested in version 3.6.
+
+The code has been tested in Python 3.7 and PyStan 2.19. Note that, while newer
+versions of Python 3 should work, PyStan 3 is not backwards compatible and
+would require a few changes to the code.
 
 ## Overview
 

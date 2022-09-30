@@ -7,7 +7,6 @@ Antonio Paiva, CSR
 
 import numpy as np
 import matplotlib.pyplot as plt
-import pdb
 from pprint import pprint
 
 
